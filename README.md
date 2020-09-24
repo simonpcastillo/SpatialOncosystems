@@ -5,3 +5,8 @@ Department of Ecology, School of Biological Sciences, Pontificia Universidad Cat
 Centre for Evolution and Cancer, Institute of Cancer Research, ICR, London, UK. <br>
 
 Maintainer: Simon P. Castillo <spcastil@uc.cl>
+
+Further explorattions can be found here (add link)
+
+### R scripts
+This folder contains the essential R scrpts used in our work.
