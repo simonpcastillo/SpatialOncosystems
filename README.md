@@ -6,7 +6,6 @@ Department of Ecology, School of Biological Sciences, Pontificia Universidad Cat
 
 Maintainer: Simon P. Castillo <simon.castillo@icr.ac.uk>
 
-Further explorations can be found here (soon)
 
 ### R scripts
-This folder contains the essential R scrpts used in our work.
+This folder contains the essential R scripts used in our work for detection of spatial clusters and computaitons of Morisita-Horn overlap index.
